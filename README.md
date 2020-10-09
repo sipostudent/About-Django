@@ -1,3 +1,3 @@
 "# About-Django"
 
-- Two test apps
+- Two test Django apps
